@@ -6,14 +6,14 @@ I created a toolbox where students could play with different reinforcement learn
 learning is a branch of machine learning where the focus lies on learning from interaction. Reinforcement learning can be 
 seen as the learning process that automatically takes place in people's minds while doing a task for the first time. 
 Similar to how humans behave, the reinforcement learning algorithm tries out different actions and tries to build
-a knowledge base that comprises the gathered wisom. As time progresses and more actions are tried, the algorithm
+a knowledge base that comprises the gathered wisdom. As time progresses and more actions are tried, the algorithm
 has quite a good understanding of how the task can be solved and how the dynamics in the environment influences these actions. 
 In the end, the algorithm will converge to the optimal policy which can, from that point on, be exploited. 
 
-In this applet, I implemeted:
+In this applet, I implemented:
 - An interactive environment where obstacles can be added and removed
 - Different goal locations with different rewards
-- A diverse set of reinforcement learning algorithm ranging from Q-leanring, Q-lambda, Sarsa
+- A diverse set of reinforcement learning algorithm ranging from Q-learning, Q-lambda, Sarsa
 - The user can also
   - inspect the learning process every episode
   - at the end of learning
